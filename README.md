@@ -1,8 +1,14 @@
 MovieLens Data Analysis Project
-Overview
-This project involves analyzing the MovieLens dataset to extract meaningful insights regarding movie ratings, genres, and user preferences. The primary objectives of the analysis include identifying the top-rated movies by genre, understanding the distribution of ratings, and calculating average ratings by genre.
+
+
+Overview:
+
+
+This project analyses the MovieLens dataset to extract meaningful insights regarding movie ratings, genres, and user preferences. The primary objectives of the analysis include identifying the top-rated movies by genre, understanding the distribution of ratings, and calculating average ratings by genre.
 
 Dataset
+
+
 The analysis is based on the MovieLens dataset, which consists of the following files:
 
 movies.dat: Contains information about movie titles and genres.
